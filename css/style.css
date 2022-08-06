@@ -47,9 +47,9 @@
 }
 
 .nav-left img{ 
-    height: 75px;
-    width: 75px;
-    margin: auto 10px;
+    height: 50px;
+    width: 50px;
+    margin: 5px 10px;
 }
 
 .nav-right{
@@ -199,7 +199,7 @@ hr.postart{
 }
 
 .contact-left h2{
-    color:rgba(24, 79, 44, 0.993);
+    color: var(--blues);
 }
 
 .contact-right{
@@ -229,6 +229,7 @@ hr.postart{
     display: flex;
     justify-content: center;  /*on main  axis*/
     align-items: center;  /*on cross axis*/
+    font-family: var(--font1);
 }
 
 #foot{
