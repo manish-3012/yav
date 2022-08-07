@@ -178,6 +178,25 @@ hr.postart{
     background-color: var(--aesthetic);
 }
 
+.prob-right span{
+    color: var(--blues);
+}
+
+.footer h3{
+    color: var(--blues);
+}
+
+.box img:hover{
+    border-radius: 5px;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.prob-left img:hover{
+    border-radius: 5px;
+    box-shadow: 20px 20px 20px 0 rgba(0, 0, 0, 0.2), 20px 30px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
 .contact-left{
     width:60%;
     font-family: var(--font1);

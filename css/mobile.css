@@ -157,7 +157,7 @@
     
     .box img{
         height: 100px;
-        width: 100px;
+        width: 155px;
     }
 
     .code{
@@ -204,7 +204,7 @@
     
 
     .box a{
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .prob-right{
